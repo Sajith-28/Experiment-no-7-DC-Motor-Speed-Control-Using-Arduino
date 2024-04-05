@@ -1,6 +1,6 @@
 ###  DATE: 05/04/2024
 
-###  NAME: sSAJITH AHAMED F
+###  NAME: SAJITH AHAMED F
 ###  ROLL NO :212223240144
 ###  DEPARTMENT:AIML
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
